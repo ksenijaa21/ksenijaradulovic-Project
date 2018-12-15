@@ -1,3 +1,3 @@
-# ksenijaradulovic-Project
+# Project
 
 **Gaussian Filter**
